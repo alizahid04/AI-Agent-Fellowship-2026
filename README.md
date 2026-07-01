@@ -92,7 +92,6 @@ During this fellowship I want to:
 
 ## 📫 Connect
 
-- **Email:** your.email@example.com
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-ali-zahid-0aab81370
 
 ---
