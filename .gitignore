@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Chat Data
+chat_history.json
+chat_sessions.json
+
+# Exported Chats
+exports/chats/
+
+# Presentation Video
+Software_Project_Presentation.mp4
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
